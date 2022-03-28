@@ -1,0 +1,4 @@
+delault terminal
+express --no-view hahuapi
+npm i --save-dev nodemon
+npm i --save mongoose
